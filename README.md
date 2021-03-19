@@ -25,10 +25,11 @@ The last pie chart represents the number of drivers per city type.   The Urban c
 <img src="/Analysis/Fig7.png" width="600"> [Fig7.png](/Analysis/Fig7.png)
 
 The total fare data was then compiled by week and graphed to represent each of the different city types.   With this graph, trends can be identified by week and city type.    By reviewing the below graph, it is determined that all three city types show very similar trends throughout the weeks.    All three city types saw a spike during the third week of February.  In addition, all three city types saw a all time low the third week of March.
+
 <img src="/Analysis/PyBer_fare_summary.png" width="600"> [PyBer_fare_summary.png](/Analysis/PyBer_fare_summary.png)
 
 
-#Summary: 
+# Summary: 
 Based on the above infomration the following are recommended:
 
 - When reviewing the weekly data, there are clear trends across all three city types.   It is recommended that further analysis be done as to the events that caused a rise in February and a fall in March across all segments.    Was there a major event in the area, weather, or a holiday that impacted the trends?   PyBer should use this analysis to ensure that drivers are available for weeks when there is more demand.
