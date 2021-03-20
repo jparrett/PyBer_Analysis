@@ -34,7 +34,7 @@ Based on the above infomration the following are recommended:
 
 - When reviewing the weekly data, there are clear trends across all three city types.   It is recommended that further analysis be done as to the events that caused a rise in February and a fall in March across all segments.    Was there a major event in the area, weather, or a holiday that impacted the trends?   PyBer should use this analysis to ensure that drivers are available for weeks when there is more demand.
 
-- The average fare per ride for Rural city type was $34.62.   This resulted in a fare that was over $10 more than the average fare for Urban, $24.53.   It is recommended that further research done as to why the fare is so much higher in the Rural city type.  This could provide an opportunity for revenue growth.
+- The average fare per ride for Rural city type was $34.62.   This resulted in a fare that was over $10 more than the average fare for Urban, $24.53.   The higher fare could be a result of longer distance traveled.  It is recommended that further research be conducted to see the lengths of rides for each city type.  
 
 - To improve access for the Rural city types, it is recommended that more drivers be added.   This would provide more accessability to this city type that could increase the number of rides in an area that PyBer makes the highest fare rate. 
 
