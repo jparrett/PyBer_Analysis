@@ -40,4 +40,6 @@ Based on the above infomration the following are recommended:
 
 - The Urban city type is the most profitable with 62.7% of the fare revenue.    Unfortunately, their average fare is the lowest at $24.53.   Looking at the data, it is recommended that rates be increased for this city type.    This adjustment would also help to support the drivers, who are currently making the lowest per ride at only $16.57.
 
+- In all three city types, the number of drivers and the number of rides are not extremely different.    It is recommended to look at a new marketing approach to increase the number or rides.   This would lead to more opportunities for your drivers and increased profit for the company.   
+
  
