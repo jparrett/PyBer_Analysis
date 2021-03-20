@@ -36,7 +36,7 @@ Based on the above infomration the following are recommended:
 
 - The average fare per ride for Rural city type was $34.62.   This resulted in a fare that was over $10 more than the average fare for Urban, $24.53.   The higher fare could be a result of longer distance traveled.  It is recommended that further research be conducted to see the lengths of rides for each city type.  
 
-- To improve access for the Rural city types, it is recommended that more drivers be added.   This would provide more accessability to this city type that could increase the number of rides in an area that PyBer makes the highest fare rate. 
+- To improve access for the Rural city types, it is recommended that more drivers be added.   This would provide more accessability to this city type that could increase the number of rides in an area that PyBer makes the highest fare rate.  Before drivers are added, the data should be reviewed to show the number of rides per driver to ensure additional drivers would not over saturate the area.
 
 - The Urban city type is the most profitable with 62.7% of the fare revenue.    Unfortunately, their average fare is the lowest at $24.53.   Looking at the data, it is recommended that rates be increased for this city type.    This adjustment would also help to support the drivers, who are currently making the lowest per ride at only $16.57.
 
