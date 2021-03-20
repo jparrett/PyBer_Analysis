@@ -24,7 +24,7 @@ To continue the analysis, the data was broken down into percentage of rides.  Th
 The last pie chart represents the number of drivers per city type.   The Urban city type represents the majority at 80.9% of drivers for PyBer.
 <img src="/Analysis/Fig7.png" width="600"> [Fig7.png](/Analysis/Fig7.png)
 
-The total fare data was then compiled by week and graphed to represent each of the different city types.   With this graph, trends can be identified by week and city type.    By reviewing the below graph, it is determined that all three city types show very similar trends throughout the weeks.    All three city types saw a spike during the third week of February.  In addition, all three city types saw an all time low during the third week of March.
+The total fare data was then compiled by week and graphed to represent each of the different city types.   With this graph, trends can be identified by week and city type.    By reviewing the below graph, it is determined that all three city types show very similar trends throughout the weeks.    All three city types saw a spike during the third week of February.  In addition, all three city types saw an all time low during the middle of March.
 
 <img src="/Analysis/PyBer_fare_summary.png" width="600"> [PyBer_fare_summary.png](/Analysis/PyBer_fare_summary.png)
 
